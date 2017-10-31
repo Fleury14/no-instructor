@@ -1,0 +1,21 @@
+/* global */
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    font-family: 'Lato', sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.color-maroon {
+    color: maroon;
+}
+
+.color-navyblue {
+    color: navy;
+}
